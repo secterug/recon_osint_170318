@@ -25,6 +25,6 @@ The approaches are further broken into sub-categories as below
  
 # Social Media Intelligence
  * Email, Social Media Landscape
- * Social Median / Privacy Insights
+ * Social Media / Privacy Insights
  * Tools and methods for monitoring social media
  * Social media analysis tools and methods
