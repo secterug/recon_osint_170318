@@ -1,7 +1,7 @@
 # recon_osint_170318
 Reconnaisance and Open Source InTelligence WorkShop
 
-*This workshop consists of files and working data for the OSINT and Recon Workshop for the secterUG meetup on 17/03/2018
+This workshop consists of files and working data for the OSINT and Recon Workshop for the secterUG meetup on 17/03/2018
 
 # Approach
 
